@@ -1,0 +1,9 @@
+[submodule "ai"]
+	path = ai
+	url = https://github.com/makewithpotato/ai.git
+[submodule "client"]
+	path = client
+	url = https://github.com/makewithpotato/client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/makewithpotato/server.git
